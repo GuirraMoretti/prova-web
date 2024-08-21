@@ -1,8 +1,7 @@
-import './App.css';
-import Questao01A from './Questao01';
-import Questao02 from './Questao02';
-import Questao03 from './Questao03';
-import Questao04 from './Questao04';
+import Questao01A from './Questao01.js';
+import Questao02 from './Questao02.js';
+import Questao03 from './Questao03.js';
+import Questao04 from './Questao04.jsx';
 
 function App() {
   return (
