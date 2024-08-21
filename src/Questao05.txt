@@ -1,0 +1,2 @@
+Props Drilling: é quando você tem que entregar uma mensagem onde precisa passar por
+varios componentes antes de chegar no componente que realmente ira usar o props.
